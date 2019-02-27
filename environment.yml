@@ -1,0 +1,19 @@
+name: pygtk
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=2.7
+  - pango
+  - cairo
+  - atk
+  - fontconfig
+  - freetype
+  - glib
+  - graphviz
+  - pygraphviz
+  - gtk2==2.24.31
+  - harfbuzz
+  - libffi
+  - pixman
+  - pygobject
